@@ -7,7 +7,7 @@
 Here are some ideas to get you started:-->
 
 - 🧑‍💼 Front-End Developer sharing my codes and about my learning in tech field.
-- 👨‍🎓 Studying [Computer Science] from Iqra University.
+- 👨‍🎓 Studying [Computer Science] from Virtual University.
 - 🌱 I’m currently learning Javascript and Back-End from Udemy.
 - 📫 Email: boyaakgraphics@gmail.com
 - 🎮 Gamer 
